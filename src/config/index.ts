@@ -1,2 +1,2 @@
-export * from "./register.env.js";
-export * from "./validate.env.js";
+export * from "./env/index.js";
+export * from "./types/index.js";
